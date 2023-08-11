@@ -1,0 +1,12 @@
+D:\Projects\SIm\Console\obj\Release\Console.csproj.AssemblyReference.cache
+D:\Projects\SIm\Console\obj\Release\Console.csproj.SuggestedBindingRedirects.cache
+D:\Projects\SIm\Console\obj\Release\Console.csproj.CoreCompileInputs.cache
+D:\Projects\SIm\Console\bin\Release\Console.exe
+D:\Projects\SIm\Console\bin\Release\Console.pdb
+D:\Projects\SIm\Console\bin\Release\Sim.dll
+D:\Projects\SIm\Console\bin\Release\Sim.pdb
+D:\Projects\SIm\Console\obj\Release\Console.csproj.CopyComplete
+D:\Projects\SIm\Console\obj\Release\Console.exe
+D:\Projects\SIm\Console\obj\Release\Console.pdb
+D:\Projects\SIm\Console\bin\Release\Newtonsoft.Json.dll
+D:\Projects\SIm\Console\bin\Release\Newtonsoft.Json.xml

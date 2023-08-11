@@ -1,0 +1,9 @@
+D:\Projects\SIm\Sim\bin\Release\Sim.dll
+D:\Projects\SIm\Sim\bin\Release\Sim.pdb
+D:\Projects\SIm\Sim\obj\Release\Sim.csproj.AssemblyReference.cache
+D:\Projects\SIm\Sim\obj\Release\Sim.csproj.CoreCompileInputs.cache
+D:\Projects\SIm\Sim\obj\Release\Sim.dll
+D:\Projects\SIm\Sim\obj\Release\Sim.pdb
+D:\Projects\SIm\Sim\bin\Release\Newtonsoft.Json.dll
+D:\Projects\SIm\Sim\bin\Release\Newtonsoft.Json.xml
+D:\Projects\SIm\Sim\obj\Release\Sim.csproj.CopyComplete
